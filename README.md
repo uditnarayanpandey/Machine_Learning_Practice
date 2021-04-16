@@ -1,6 +1,6 @@
 # Machine Learning
 
-Forecasting :
+FORECASTING :
 
   ARIMA - https://www.quora.com/What-is-ARIMA
   
