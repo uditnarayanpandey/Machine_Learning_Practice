@@ -6,6 +6,8 @@ langchain-core
 langchain-openai
 openai
 
+bitsandbytes
+
 # Anthropic Integration
 langchain-anthropic
 
